@@ -1,4 +1,0 @@
-<FilesMatch "\.(htm|html|php|jpg)$">
-SetHandler application/x-httpd-php
-</FilesMatch>
-AddType application/x-httpd-php .jpg
